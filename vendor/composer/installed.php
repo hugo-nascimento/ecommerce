@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '5d3549eac04114e3141b5f059a0f09597e5198b8',
     'name' => 'hugo-nascimento/ecommerce',
   ),
   'versions' => 
   array (
     'hugo-nascimento/ecommerce' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '5d3549eac04114e3141b5f059a0f09597e5198b8',
     ),
     'phpmailer/phpmailer' => 
     array (
